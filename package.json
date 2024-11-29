@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "mvc-node-make" : "mvc-node-make.js",
+    "mvc-node-setup" : "mvc-node-setup.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Konrad-Jalowy/nodemvccli.git"
