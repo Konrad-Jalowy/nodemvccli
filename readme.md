@@ -7,16 +7,16 @@ I created such thing, that lets you:
 - Create controller, model, route file and views subfolder for a given name
 
 Btw, if you need to use it you must use command:
-```
-npm install -g ./
 ```sh
+npm install -g ./
+```
 
 Then you use it like this - setup:
-```
-mvc-node-setup
 ```sh
+mvc-node-setup
+```
 
 Creating of controller, model, views subfolder and routes file:
-```
-mvc-node-make todo
 ```sh
+mvc-node-make todo
+```
